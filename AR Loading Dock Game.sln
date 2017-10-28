@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Loading Dock Game", "Assembly-CSharp.csproj", "{387513EB-52A8-F358-2ACE-28507E16C8B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Loading Dock Game", "Assembly-CSharp-Editor.csproj", "{B9831E3E-C8B7-71B9-B75E-E8F0E3E0C31A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{387513EB-52A8-F358-2ACE-28507E16C8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{387513EB-52A8-F358-2ACE-28507E16C8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{387513EB-52A8-F358-2ACE-28507E16C8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{387513EB-52A8-F358-2ACE-28507E16C8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9831E3E-C8B7-71B9-B75E-E8F0E3E0C31A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9831E3E-C8B7-71B9-B75E-E8F0E3E0C31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9831E3E-C8B7-71B9-B75E-E8F0E3E0C31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9831E3E-C8B7-71B9-B75E-E8F0E3E0C31A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
